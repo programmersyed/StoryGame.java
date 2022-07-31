@@ -59,6 +59,11 @@ import java.util.Scanner;
             }
             int [][] Duke = {{15,25,35},
                     {16,19,29}};
-            System.out.println(Duke[1][0]+" dollars for you!");
+            for (int i =0; i<= Duke.length;i++){
+                for (int j =0; j<= Duke.length; j++){
+                    System.out.println(Duke[i][j] + " criminals in floor"+i+j);
+                }
+            }
+
             }
         }
