@@ -6,3 +6,4 @@ public class Heroes extends Villians {
     Heroes JakefromStateFarm = new Heroes(20, "Jake From Statefarm","Insurance Agent", "Used to do commercials");
 }
 
+//Inheritance
