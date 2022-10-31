@@ -13,7 +13,7 @@ import java.util.Scanner;
             System.out.println("It appears that the city needs you");
             System.out.println("Crime is rampant here in New Domino City and we are in need of a detective of your calibre");
             System.out.println("Your first task will be against Dirty Dan");
-            System.out.println("Guess what mumber dan is thinking in order to catch him");
+            System.out.println("Guess what number dan is thinking in order to catch him");
             System.out.println("We have narrowed it between 1 and 5");
 
             int chap = nam.nextInt();
